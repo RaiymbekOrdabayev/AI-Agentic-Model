@@ -1,1 +1,2 @@
 # AI-Agentic-Model
+ResumAI is an agent-based resume screening framework designed to outperform traditional Applicant Tracking Systems (ATS). It aims to reduce reliance on keyword matching, minimize biases across protected variables like nationality and gender, and increase resistance to manipulation by candidates. The framework uses advanced machine learning models, including GPT-4, to rate resumes more ethically and efficiently, considering technical, professional, and cultural fits with the job description.
